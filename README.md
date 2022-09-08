@@ -1,11 +1,8 @@
-<h1 align="center">Shoppers United</h1>
+<h1 align="center">Listr</h1>
 
 <div align ="center"> 
 
-![Screen Shot 2022-09-06 at 5 50 30 PM](https://user-images.githubusercontent.com/101071525/188747585-3403e90f-9d7d-4c84-a601-e8bbd0c6fcf3.png)
-
-
-A simple web application that syncs with multiple devices and allows users to easily create lists on a single platform. Go ahead and create your shopping list! 
+Listr is a simple web application that syncs with multiple devices and allows users to easily create lists on a single platform. Go ahead and create your shopping list! 
  
 ## Overview
 This app illustrates how to build an app with sign-in functionality using Express, Passport, and the [`passport-local`](https://www.passportjs.org/packages/passport-local/) strategy.
@@ -97,4 +94,4 @@ Navigate to [`http://localhost:2021`](http://localhost:2021)
 
 
 ## License
-Shoppers United is under the [MIT](https://choosealicense.com/licenses/mit/) license.
+Listr is under the [MIT](https://choosealicense.com/licenses/mit/) license.
